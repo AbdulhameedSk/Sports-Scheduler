@@ -5,7 +5,7 @@ This is a sports scheduling application created using `Node.js`  where you can c
 
 You can run the application locally by following the steps below in a terminal window.
 
-`git clone `
+`git clone https://github.com/Sai6522/Sports_Scheduler.git`
 
 `npm install`
 
