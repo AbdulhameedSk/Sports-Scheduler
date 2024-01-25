@@ -19,7 +19,7 @@ You can find the demo video of the application here.
 
 Application Page:
 
-![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/sports-scheduler/Screenshots/Screenshot%202024-01-23%20191703.png)
+![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191703.png)
 
 Home Page (after login) :
 
