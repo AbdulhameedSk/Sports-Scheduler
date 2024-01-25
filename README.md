@@ -23,7 +23,7 @@ Application Page:
 
 Home Page (after login) :
 
-![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/sports-scheduler/Screenshots/Screenshot%202024-01-23%20191743.png)
+![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191743.png)
 
 Session Page (for admin) :
 
