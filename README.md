@@ -5,7 +5,7 @@ This is a sports scheduling application created using `Node.js`  where you can c
 
 You can run the application locally by following the steps below in a terminal window.
 
-`git clone https://github.com/Sai6522/Sports_Scheduler.git`
+`git clone https://github.com/AbdulhameedSk/Sports-Scheduler'
 
 `npm install`
 
@@ -19,13 +19,13 @@ You can find the demo video of the application here.
 
 Application Page:
 
-![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191703.png)
+![alt text](https://github.com/abdulhameedsk/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191703.png)
 
 Home Page (after login) :
 
-![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191743.png)
+![alt text](https://github.com/abdulhameedsk/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20191743.png)
 
 Session Page (for admin) :
 
-![alt text](https://github.com/Sai6522/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20192535.png)
+![alt text](https://github.com/abdulhameedsk/Sports_Scheduler/blob/main/Screenshots/Screenshot%202024-01-23%20192535.png)
 

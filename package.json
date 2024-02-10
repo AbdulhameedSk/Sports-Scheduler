@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Venkata Sai Prasad",
+  "author": "SHAIK ABDULHAMEED",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
